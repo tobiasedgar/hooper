@@ -1,0 +1,9 @@
+title: Image
+
+alt:
+  width: 1/2
+  type: text
+
+caption:
+  width: 1/2
+  type: text

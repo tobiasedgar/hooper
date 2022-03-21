@@ -1,0 +1,72 @@
+Title: Overview – Portraits
+
+----
+
+Align: left
+
+----
+
+Category: Portraits
+
+----
+
+Displayimage:
+
+- >
+  screen-shot-2022-03-16-at-12.15.50-pm.png
+
+----
+
+Heroimage: 
+
+----
+
+Galleryimages:
+
+- >
+  screen-shot-2022-03-16-at-12.15.58-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.06-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.14-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.25-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.42-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.51-pm.png
+- >
+  screen-shot-2022-03-16-at-12.17.07-pm.png
+- >
+  screen-shot-2022-03-16-at-12.17.15-pm.png
+
+----
+
+Projecttext: 
+
+----
+
+Projectdetails: 
+
+----
+
+Projectimages:
+
+- >
+  screen-shot-2022-03-16-at-12.15.50-pm.png
+- >
+  screen-shot-2022-03-16-at-12.15.58-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.06-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.14-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.25-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.42-pm.png
+- >
+  screen-shot-2022-03-16-at-12.16.51-pm.png
+- >
+  screen-shot-2022-03-16-at-12.17.07-pm.png
+- >
+  screen-shot-2022-03-16-at-12.17.15-pm.png

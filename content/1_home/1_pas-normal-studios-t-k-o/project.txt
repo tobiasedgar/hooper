@@ -1,0 +1,89 @@
+Title: Pas Normal Studios – T.K.O
+
+----
+
+Align: center
+
+----
+
+Category: Lifestyle
+
+----
+
+Displayimage:
+
+- >
+  screen-shot-2022-03-16-at-11.36.34-am.png
+
+----
+
+Heroimage:
+
+- >
+  screen-shot-2022-03-16-at-11.33.34-am.png
+
+----
+
+Galleryimages:
+
+- >
+  screen-shot-2022-03-16-at-11.33.44-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.17-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.24-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.08-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.00-am.png
+- >
+  screen-shot-2022-03-16-at-11.33.53-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.34-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.42-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.52-am.png
+- >
+  screen-shot-2022-03-16-at-11.36.34-am.png
+
+----
+
+Projecttext: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae – dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
+----
+
+Projectdetails:
+
+- 
+  detailtitle: Client
+  detailinfo: Pas Normal Studios
+- 
+  detailtitle: Agency
+  detailinfo: Sed Ut Perspiciatis
+- 
+  detailtitle: Year
+  detailinfo: "2022"
+
+----
+
+Projectimages:
+
+- >
+  screen-shot-2022-03-16-at-11.33.44-am.png
+- >
+  screen-shot-2022-03-16-at-11.33.53-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.00-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.08-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.17-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.52-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.24-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.42-am.png
+- >
+  screen-shot-2022-03-16-at-11.34.34-am.png

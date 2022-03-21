@@ -1,0 +1,14 @@
+title: Admin
+description: The user can edit all pages
+
+permissions:
+  access:
+    panel: true
+    site: true
+    settings: true
+    users: true
+  user:
+    changeRole: false
+    changeLanguage: true
+    delete: false
+    update: false

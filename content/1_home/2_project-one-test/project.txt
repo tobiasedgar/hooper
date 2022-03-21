@@ -1,0 +1,32 @@
+Title: Project One – Test
+
+----
+
+Align: center
+
+----
+
+Category: Portraits
+
+----
+
+Displayimage:
+
+- >
+  screen-shot-2022-03-17-at-10.18.38-am.png
+
+----
+
+Heroimage: 
+
+----
+
+Galleryimages: 
+
+----
+
+Projecttext: 
+
+----
+
+Projectdetails: 

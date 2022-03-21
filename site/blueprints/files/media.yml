@@ -1,0 +1,9 @@
+title: Media
+
+accept: 
+  mime: image/*, video/mp4, application/json, application/pdf
+  maxsize: 12000000
+
+fields: 
+  alt: 
+    type: text

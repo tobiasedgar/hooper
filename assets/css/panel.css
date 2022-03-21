@@ -1,0 +1,66 @@
+.k-icon[data-back=black],
+.k-image[data-back=pattern] span {
+  background: none;
+  color: #999; }
+
+.k-list-item-image .k-icon svg {
+  color: rgba(128, 128, 128, 0.5); }
+
+.k-status-flag-listed .k-icon {
+  color: #04c85b; }
+
+.k-status-flag-unlisted .k-icon {
+  color: #add9ff; }
+
+.k-status-flag-draft .k-icon {
+  color: #FF4621; }
+
+.k-header-tabs nav,
+.k-tab-button {
+  -webkit-box-pack: left;
+  -ms-flex-pack: left;
+  justify-content: left; }
+
+.k-tab-button {
+  padding: 1rem; }
+
+.k-login-view {
+  font-family: 'Centra No1';
+  height: 100vh !important;
+  width: 100vw !important;
+  background-color: #F9D25D;
+  position: fixed;
+  color: #000;
+  background-size: 22.5rem;
+  background-repeat: no-repeat;
+  background-position: top 10vh center;
+  background-image: url("/assets/graphics/tv_logo.svg"); }
+
+.k-login-view button {
+  font-family: inherit; }
+
+.k-view.k-login-view {
+  max-width: none; }
+
+.k-login-view .k-input {
+  background: transparent;
+  border: 1px solid #000;
+  color: #000 !important; }
+
+.k-login-view input::placeholder {
+  color: rgba(0, 0, 0, 0.5); }
+
+.k-login-view .k-input[data-theme=field]:focus-within {
+  border: 1px solid  #000;
+  opacity: 1;
+  -webkit-box-shadow: none;
+  box-shadow: none; }
+
+.k-login-view .k-checkbox-input-icon {
+  border: 2px solid #000; }
+
+.k-login-view .k-checkbox-input-native:focus:checked + .k-checkbox-input-icon {
+  background: #000; }
+
+.k-login-view .k-checkbox-input-native:focus + .k-checkbox-input-icon {
+  border-color: #000; }

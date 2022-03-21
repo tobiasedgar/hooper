@@ -1,0 +1,13 @@
+title: File
+
+accept: 
+  mime: image/*, video/mp4, application/json, application/pdf
+  maxsize: 12000000
+
+fields: 
+  alt: 
+    type: text
+    width: 1/2
+  caption: 
+    width: 1/2
+    type: text

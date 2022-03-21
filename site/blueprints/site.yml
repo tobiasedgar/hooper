@@ -1,0 +1,89 @@
+title: Site
+tabs:
+  pages:
+    columns:
+      leftColumn:
+        width: 1/3
+        sections:
+          unlistedPages:
+            headline: Core Pages
+            type: pages
+            status: unlisted
+      rightColumn:
+        width: 1/3
+        sections:
+          listedPages:
+            headline: Listed Pages
+            type: pages
+            status: listed
+
+  settings:
+    label: Settings
+    columns:
+      settingsLeftCol:
+        width: 2/3
+        sections:
+          settingsLeft:
+            type: fields
+            fields:
+              description:
+                label: Description
+                type:  textarea
+                buttons: false
+                maxlength: 200
+                size: tiny
+                help: A short summary to give people an idea of what to expect when visiting your website
+              keywords:
+                label: Keywords
+                size: tiny
+                type:  tags
+                help: Keywords to help search engines index your website
+              ogImage:
+                label: Social Image
+                type: files
+                uploads: image
+                multiple: false
+                layout: cards
+                help: 1200 x 630px recommended<br>This image is the first thing people will see when someone shares your website
+              # faviconImage:
+              #   label: Favicon Icon
+              #   type: files
+              #   uploads: image
+              #   multiple: false
+              #   layout: cards
+              #   help: 192 x 192px png<br>Square image used as global icon for the site
+              #   width: 1/2
+              # touchImage:
+              #   label: Touch Icon
+              #   type: files
+              #   uploads: image
+              #   multiple: false
+              #   layout: cards
+              #   help: 180 x 180px png<br>Square image used as touch icon for the site
+              #   width: 1/2
+      settingsRightCol:
+        width: 1/3
+        sections:
+          settingsRight:
+            type: fields
+            fields:
+              facebookPixelID:
+                label: Facebook Pixel ID
+                type: text
+                type: hidden
+                help: For facebook tracking
+              googleAnalyticsID:
+                label: Google Analytics ID
+                type: text
+                icon: code
+                placeholder: UA-XXXXXXXX-X
+                help: Tracking ID in the form UA-XXXXXXXX-X<br>Keep this field empty if you are not using it
+
+
+  files:
+    sections:
+      images:
+        type: files
+        layout: cards
+        template: image
+        size: small

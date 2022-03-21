@@ -1,0 +1,1 @@
+<?= css(['assets/css/style.css', '@auto', 'assets/css/mobile.css']) ?>

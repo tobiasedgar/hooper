@@ -1,0 +1,169 @@
+@media (min-width: 450px) {
+  .minor {
+    min-width: 450px; } }
+
+.minor > div {
+  grid-column: 1/5; }
+  @media (min-width : 900px) {
+    .minor > div {
+      padding-top: 100px; } }
+section {
+  min-height: calc(100vh - 100px); }
+
+.landing {
+  height: 100vh;
+  overflow-y: hidden; }
+  .landing .minor {
+    padding-top: calc(100px + var(--mainpad));
+    padding-bottom: calc(3 * var(--mainpad));
+    background-color: var(--green); }
+    @media (max-width : 900px) {
+      .landing .minor {
+        height: calc(100vh - 100px);
+        padding-bottom: calc(4 * var(--mainpad)); } }
+    .landing .minor div {
+      grid-column: 1/5;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end; }
+      .landing .minor div svg {
+        width: 100%; }
+  @media (max-width : 900px) {
+    .landing {
+      height: auto; } }
+.about {
+  overflow-y: hidden; }
+  .about .minor {
+    background-color: var(--orange); }
+
+.space {
+  overflow-y: hidden; }
+  .space .minor {
+    background-color: var(--beige); }
+  .space .gallery .row {
+    width: 100%;
+    margin-bottom: var(--mainpad);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end; }
+    .space .gallery .row:last-of-type {
+      align-items: flex-start;
+      margin-bottom: 0; }
+    .space .gallery .row:nth-of-type(even) .image-holder {
+      width: 25%;
+      padding-bottom: 25%; }
+      .space .gallery .row:nth-of-type(even) .image-holder:nth-of-type(even) {
+        width: 50%;
+        padding-bottom: 50%; }
+    .space .gallery .row .image-holder {
+      position: relative;
+      width: 50%;
+      height: 0;
+      padding-bottom: 50%;
+      overflow: hidden; }
+      .space .gallery .row .image-holder:nth-of-type(even) {
+        width: 25%;
+        padding-bottom: 25%; }
+      .space .gallery .row .image-holder img {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+        object-position: center; }
+
+.events {
+  overflow-y: hidden; }
+  .events .minor {
+    background-color: var(--blue); }
+    .events .minor .pill {
+      background-color: var(--blue);
+      color: var(--black);
+      margin-top: 1em;
+      display: inline-block;
+      border: 1px solid var(--black); }
+      .events .minor .pill:hover {
+        background-color: var(--white); }
+
+.joinus {
+  padding: var(--mainpad);
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: auto;
+  column-gap: var(--mainpad); }
+  @media (max-width : 900px) {
+    .joinus {
+      grid-template-columns: repeat(4, 1fr);
+      row-gap: calc(2 * var(--mainpad)); } }
+  .joinus svg {
+    grid-column-end: span 4;
+    width: 100%;
+    height: auto;
+    transition: fill 0.5s;
+    fill: #fff; }
+    @media (max-width : 900px) {
+      .joinus svg:nth-child(n+7) {
+        display: none; } }
+.memberships {
+  overflow-y: hidden; }
+  .memberships .minor {
+    background-color: var(--orange); }
+
+.included {
+  overflow-y: hidden; }
+  .included .minor {
+    background-color: var(--green); }
+    .included .minor ul {
+      width: 100%; }
+
+.bookings {
+  overflow-y: hidden; }
+  .bookings .minor {
+    background-color: var(--yellow); }
+  .bookings .major {
+    padding: 0; }
+
+.location {
+  overflow-y: hidden; }
+  .location .minor {
+    background-color: var(--beige); }
+    .location .minor .pill {
+      background-color: var(--beige);
+      color: var(--black);
+      margin-top: 1em;
+      display: inline-block;
+      border: 1px solid var(--black); }
+      .location .minor .pill:hover {
+        background-color: var(--white); }
+  .location .major {
+    padding: 0; }
+  .location #map {
+    width: 100%;
+    height: 100%; }
+    @media (max-width : 900px) {
+      .location #map {
+        height: calc(100vw - (2 * var(--mainpad))); } }
+    .location #map .mapboxgl-control-container {
+      display: none; }
+    .location #map .map-marker {
+      height: var(--fontLarge);
+      width: var(--fontLarge);
+      border-radius: 500000px;
+      background-color: var(--orange); }
+
+.splitter .image-holder {
+  position: relative; }
+  .splitter .image-holder img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+    width: 100%; }
+  @media (max-width : 900px) {
+    .splitter .image-holder {
+      height: 150vw; }
+      .splitter .image-holder img {
+        top: -1px; } }

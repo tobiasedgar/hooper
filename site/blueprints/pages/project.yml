@@ -1,0 +1,70 @@
+title: Project
+icon: image
+options:
+  delete: false
+  changeTemplate: false
+  changeStatus: true
+
+tabs:
+  content:
+    fields:
+      align:
+        width: 1/2
+        type: select
+        help: Image will be set as "Center" if left empty
+        options:
+          left: Left
+          center: Center
+          right: Right
+      category:
+        width: 1/2
+        type: select
+        options:
+          - Lifestyle
+          - Architecture
+          - Portraits
+          - Still Life
+      displayImage:
+        width: 1/4
+        extends: fields/uploader
+        label: Display Image
+        help: Image which is displayed on homepage
+        size: small
+        info: "{{ file.caption }}"
+      heroImage:
+        width: 1/4
+        extends: fields/uploader
+        label: Hero Image
+        help: Hero Image for project page
+        size: small
+        info: "{{ file.caption }}"
+      galleryImages:
+        label: Gallery Images
+        extends: fields/uploader
+        info: "{{ file.caption }}"
+        multiple: true
+        layout: list
+      projectText:
+        type: textarea
+        label: Project Text
+        width: 1/2
+      projectDetails:
+        type: structure
+        label: Project Details
+        width: 1/2
+        fields:
+          detailTitle:
+            type: text
+            label: Details Title
+            required: true
+          detailInfo:
+            type: textarea
+            label: Detail Info
+
+  files:
+    sections:
+      images:
+        type: files
+        layout: cards
+        template: image
+        size: small

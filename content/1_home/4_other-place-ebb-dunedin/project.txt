@@ -1,0 +1,69 @@
+Title: Other Place – Ebb Dunedin
+
+----
+
+Align: center
+
+----
+
+Category: Architecture
+
+----
+
+Displayimage:
+
+- >
+  screen-shot-2022-03-16-at-12.05.39-pm.png
+
+----
+
+Heroimage:
+
+- >
+  screen-shot-2022-03-16-at-12.05.39-pm.png
+
+----
+
+Galleryimages:
+
+- >
+  screen-shot-2022-03-16-at-12.05.49-pm.png
+- >
+  screen-shot-2022-03-16-at-12.05.58-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.05-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.14-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.23-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.32-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.41-pm.png
+
+----
+
+Projecttext: A landmark piece of our journey with Dan is his book ‘1598’ — a quintessential collector’s item for rugby’s biggest fans. 1598 takes readers on an absorbing, test-by-test journey of his career as arguably the greatest player of all time.
+
+----
+
+Projectdetails: 
+
+----
+
+Projectimages:
+
+- >
+  screen-shot-2022-03-16-at-12.05.49-pm.png
+- >
+  screen-shot-2022-03-16-at-12.05.58-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.05-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.14-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.23-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.32-pm.png
+- >
+  screen-shot-2022-03-16-at-12.06.41-pm.png

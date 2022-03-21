@@ -1,0 +1,9 @@
+Alt: 
+
+----
+
+Caption: I am a caption
+
+----
+
+Template: image

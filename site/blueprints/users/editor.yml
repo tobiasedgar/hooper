@@ -1,0 +1,22 @@
+title: Editor
+description: The user can edit given pages
+
+permissions:
+  access:
+    panel: true
+    site: true
+    settings: false
+    users: false
+  user:
+    changeRole: false
+    changeLanguage: false
+    delete: false
+    update: false
+
+# fields:
+#   canaccess:
+#     label: 'The user will only be able to access:'
+#     type: pages
+#     multiple: false
+#     options: query
+#     query: site.pages

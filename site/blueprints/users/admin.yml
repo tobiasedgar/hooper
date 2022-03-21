@@ -1,0 +1,14 @@
+title: Super Admin
+description: The user controls the site
+
+permissions:
+  access:
+    panel: true
+    site: true
+    settings: true
+    users: true
+  user:
+    changeRole: true
+    changeLanguage: true
+    delete: true
+    update: true

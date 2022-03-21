@@ -1,0 +1,98 @@
+Title: Dan Carter – 1598
+
+----
+
+Align: center
+
+----
+
+Category: Still Life
+
+----
+
+Displayimage:
+
+- >
+  screen-shot-2022-03-16-at-10.12.17-am.png
+
+----
+
+Heroimage:
+
+- 06_ss-architecure-91.png
+
+----
+
+Galleryimages:
+
+- 06_ss-architecure-9-1.png
+- >
+  screen-shot-2022-03-16-at-10.08.58-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.09-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.18-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.27-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.36-am.png
+
+----
+
+Projecttext: A landmark piece of our journey with Dan is his book ‘1598’ — a quintessential collector’s item for rugby’s biggest fans. 1598 takes readers on an absorbing, test-by-test journey of his career as arguably the greatest player of all time.
+
+----
+
+Projectdetails:
+
+- 
+  detailtitle: Client
+  detailinfo: Dan Carter
+- 
+  detailtitle: Agency
+  detailinfo: Studio South
+- 
+  detailtitle: Team
+  detailinfo: |
+    Liam Oii<br>
+    Rae Sasha<br>
+    Jake Dennis
+- 
+  detailtitle: Year
+  detailinfo: "2021"
+
+----
+
+Gallerimages:
+
+- 06_ss-architecure-9-1.png
+- >
+  screen-shot-2022-03-16-at-10.08.58-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.09-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.27-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.36-am.png
+- >
+  screen-shot-2022-03-16-at-10.12.17-am.png
+
+----
+
+Projectimages:
+
+- 06_ss-architecure-9-1.png
+- >
+  screen-shot-2022-03-16-at-10.08.58-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.09-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.18-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.27-am.png
+- >
+  screen-shot-2022-03-16-at-10.09.36-am.png
+
+----
+
+Builder: 

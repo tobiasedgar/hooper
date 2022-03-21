@@ -1,0 +1,7 @@
+label: field.blocks.heading.text
+type: writer
+inline: true
+marks:
+  - bold
+  - italic
+  - underline
